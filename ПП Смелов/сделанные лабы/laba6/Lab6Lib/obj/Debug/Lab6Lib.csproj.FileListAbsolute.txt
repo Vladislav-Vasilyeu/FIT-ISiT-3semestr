@@ -1,0 +1,6 @@
+D:\Универ\ПП Смелов\сделанные лабы\laba6\Lab6Lib\bin\Debug\Lab6Lib.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba6\Lab6Lib\bin\Debug\Lab6Lib.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba6\Lab6Lib\obj\Debug\Lab6Lib.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba6\Lab6Lib\obj\Debug\Lab6Lib.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba6\Lab6Lib\obj\Debug\Lab6Lib.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba6\Lab6Lib\obj\Debug\Lab6Lib.pdb

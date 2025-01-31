@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76FD6669-3217-435A-8ABC-F72D368FEBA3}|project3\\project3.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\project3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FD6669-3217-435A-8ABC-F72D368FEBA3}|project3\\project3.csproj|solutionrelative:project3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A2E803-96CA-4981-9AF2-5AD76C8DCD52}|Project2\\Project2.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A2E803-96CA-4981-9AF2-5AD76C8DCD52}|Project2\\Project2.csproj|solutionrelative:project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B8EFAD-55FF-43AB-AF5B-FDF72532C238}|Project\\Project.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u043F \u0441\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B8EFAD-55FF-43AB-AF5B-FDF72532C238}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\project3\\Program.cs",
+              "RelativeDocumentMoniker": "project3\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\project3\\Program.cs",
+              "RelativeToolTip": "project3\\Program.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAADwvwsBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:03:24.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\Project2\\Program.cs",
+              "RelativeDocumentMoniker": "Project2\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\Project2\\Program.cs",
+              "RelativeToolTip": "Project2\\Program.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAQwOoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:45:28.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041F\u041F \u0421\u043C\u0435\u043B\u043E\u0432\\\u0441\u0434\u0435\u043B\u0430\u043D\u043D\u044B\u0435 \u043B\u0430\u0431\u044B\\laba2\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAANUBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:16:43.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

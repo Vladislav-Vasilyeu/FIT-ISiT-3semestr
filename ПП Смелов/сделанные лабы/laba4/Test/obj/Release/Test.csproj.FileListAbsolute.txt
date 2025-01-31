@@ -1,0 +1,10 @@
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\bin\Release\Test.exe.config
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\bin\Release\Test.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\bin\Release\Test.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\bin\Release\Lec04LibN.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\bin\Release\Lec04LibN.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\obj\Release\Test.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\obj\Release\Test.csproj.Up2Date
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\obj\Release\Test.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba4\Test\obj\Release\Test.pdb

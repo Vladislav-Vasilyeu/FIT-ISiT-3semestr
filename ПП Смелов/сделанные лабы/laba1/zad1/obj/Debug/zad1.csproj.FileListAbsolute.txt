@@ -1,0 +1,7 @@
+D:\Универ\ПП Смелов\сделанные лабы\laba1\zad1\bin\Debug\zad1.exe.config
+D:\Универ\ПП Смелов\сделанные лабы\laba1\zad1\bin\Debug\zad1.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba1\zad1\bin\Debug\zad1.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba1\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba1\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba1\zad1\obj\Debug\zad1.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba1\zad1\obj\Debug\zad1.pdb

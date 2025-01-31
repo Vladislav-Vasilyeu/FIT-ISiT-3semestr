@@ -1,0 +1,6 @@
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Lab5Lib\bin\Release\Lab5Lib.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Lab5Lib\bin\Release\Lab5Lib.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Lab5Lib\obj\Release\Lab5Lib.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Lab5Lib\obj\Release\Lab5Lib.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Lab5Lib\obj\Release\Lab5Lib.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Lab5Lib\obj\Release\Lab5Lib.pdb

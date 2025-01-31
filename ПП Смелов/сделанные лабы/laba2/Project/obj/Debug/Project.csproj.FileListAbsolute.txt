@@ -1,0 +1,7 @@
+D:\Универ\ПП Смелов\сделанные лабы\laba2\Project\bin\Debug\Project.exe.config
+D:\Универ\ПП Смелов\сделанные лабы\laba2\Project\bin\Debug\Project.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba2\Project\bin\Debug\Project.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba2\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba2\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba2\Project\obj\Debug\Project.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba2\Project\obj\Debug\Project.pdb

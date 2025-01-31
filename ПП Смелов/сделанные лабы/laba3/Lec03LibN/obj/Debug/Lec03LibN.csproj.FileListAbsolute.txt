@@ -1,0 +1,6 @@
+D:\Универ\ПП Смелов\сделанные лабы\laba3\Lec03LibN\bin\Debug\Lec03LibN.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba3\Lec03LibN\bin\Debug\Lec03LibN.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba3\Lec03LibN\obj\Debug\Lec03LibN.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba3\Lec03LibN\obj\Debug\Lec03LibN.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba3\Lec03LibN\obj\Debug\Lec03LibN.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba3\Lec03LibN\obj\Debug\Lec03LibN.pdb

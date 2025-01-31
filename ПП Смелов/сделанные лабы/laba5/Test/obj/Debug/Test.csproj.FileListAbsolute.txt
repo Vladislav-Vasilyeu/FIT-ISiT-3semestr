@@ -1,0 +1,10 @@
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\bin\Debug\Test.exe.config
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\bin\Debug\Test.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\bin\Debug\Test.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\bin\Debug\Lab5Lib.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\bin\Debug\Lab5Lib.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\obj\Debug\Test.csproj.Up2Date
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\obj\Debug\Test.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba5\Test\obj\Debug\Test.pdb

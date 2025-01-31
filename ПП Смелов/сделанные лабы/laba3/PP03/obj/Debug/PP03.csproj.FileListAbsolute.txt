@@ -1,0 +1,10 @@
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\obj\Debug\PP03.csproj.AssemblyReference.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\obj\Debug\PP03.csproj.CoreCompileInputs.cache
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\bin\Debug\PP03.exe.config
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\bin\Debug\PP03.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\bin\Debug\PP03.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\bin\Debug\Lec03LibN.dll
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\bin\Debug\Lec03LibN.pdb
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\obj\Debug\PP03.csproj.Up2Date
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\obj\Debug\PP03.exe
+D:\Универ\ПП Смелов\сделанные лабы\laba3\PP03\obj\Debug\PP03.pdb
