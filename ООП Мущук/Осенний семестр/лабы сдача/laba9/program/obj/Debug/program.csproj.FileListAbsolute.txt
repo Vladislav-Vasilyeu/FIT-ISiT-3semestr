@@ -1,0 +1,7 @@
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba9\program\bin\Debug\program.exe.config
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba9\program\bin\Debug\program.exe
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba9\program\bin\Debug\program.pdb
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba9\program\obj\Debug\program.csproj.AssemblyReference.cache
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba9\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba9\program\obj\Debug\program.exe
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba9\program\obj\Debug\program.pdb

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043E\u043F \u043C\u0443\u0449\u0443\u043A\\\u043E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\program\\parallelvectormultiplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|solutionrelative:program\\parallelvectormultiplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\program\\paralleltaskexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|solutionrelative:program\\paralleltaskexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\program\\blockingcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|solutionrelative:program\\blockingcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\program\\arraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE28E82C-3B35-4F6D-A0AA-1E1A16B30B37}|Program\\Program.csproj|solutionrelative:program\\arraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParallelVectorMultiplier.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\ParallelVectorMultiplier.cs",
+              "RelativeDocumentMoniker": "Program\\ParallelVectorMultiplier.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\ParallelVectorMultiplier.cs",
+              "RelativeToolTip": "Program\\ParallelVectorMultiplier.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:24:43.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParallelTaskExecutor.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\ParallelTaskExecutor.cs",
+              "RelativeDocumentMoniker": "Program\\ParallelTaskExecutor.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\ParallelTaskExecutor.cs",
+              "RelativeToolTip": "Program\\ParallelTaskExecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:23:52.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockingCollection.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\BlockingCollection.cs",
+              "RelativeDocumentMoniker": "Program\\BlockingCollection.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\BlockingCollection.cs",
+              "RelativeToolTip": "Program\\BlockingCollection.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:22:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayGenerator.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\ArrayGenerator.cs",
+              "RelativeDocumentMoniker": "Program\\ArrayGenerator.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\ArrayGenerator.cs",
+              "RelativeToolTip": "Program\\ArrayGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:21:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041E\u041F \u041C\u0443\u0449\u0443\u043A\\\u041E\u0441\u0435\u043D\u043D\u0438\u0439 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u044B \u0441\u0434\u0430\u0447\u0430\\laba15\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:17:54.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

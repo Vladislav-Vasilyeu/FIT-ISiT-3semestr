@@ -1,0 +1,7 @@
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba1\zad2\bin\Debug\zad2.exe.config
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba1\zad2\bin\Debug\zad2.exe
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba1\zad2\bin\Debug\zad2.pdb
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba1\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba1\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba1\zad2\obj\Debug\zad2.exe
+D:\Универ\ООП Мущук\Осенний семестр\лабы сдача\laba1\zad2\obj\Debug\zad2.pdb
